@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=400&lines=%F0%9F%92%AB+I+N+S+O+M+N+I+A" alt="insomnia">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=400&lines=i+n+s+o+m+n+i+a" alt="insomnia">
 </p>
 
 <p align="center">
