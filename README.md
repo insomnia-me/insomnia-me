@@ -1,9 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=false&width=400&lines=i+n+s+o+m+n+i+a" alt="insomnia">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=888888&center=true&vCenter=true&width=300&lines=code.+dream.+repeat." alt="tagline">
+  <svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+        <animate attributeName="x1" values="-1; 2" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="x2" values="0; 3" dur="3s" repeatCount="indefinite" />
+        <stop offset="0%" stop-color="#111111" />
+        <stop offset="35%" stop-color="#444444" />
+        <stop offset="50%" stop-color="#00D4FF" />
+        <stop offset="65%" stop-color="#444444" />
+        <stop offset="100%" stop-color="#111111" />
+      </linearGradient>
+    </defs>
+    <text x="210" y="42" text-anchor="middle" font-family="monospace" font-size="34" font-weight="bold" fill="url(#shimmer)">
+      i n s o m n i a
+    </text>
+  </svg>
 </p>
 
 <br>
@@ -14,12 +25,7 @@
   <img src="https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00D4FF&color=000" alt="go">
   <img src="https://img.shields.io/badge/Helix-000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMDBENENGIiBkPSJNMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDFjMi4yOTYgMCA0LjM2Ljc4MyA2IDIuMDk0VjIxLjkwNkMxNi4zNiAyMy4yMTcgMTQuMjk2IDI0IDEyIDI0IDYuNDc3IDI0IDIgMTkuNTIzIDIgMTJTNi40NzcgMyAxMiAzeiIvPjwvc3ZnPg==&logoColor=00D4FF&color=000" alt="helix">
   <img src="https://img.shields.io/badge/AI-000?style=flat-square&logo=openai&logoColor=00D4FF&color=000" alt="ai">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insomnia-me&show_icons=true&hide=contribs&hide_border=true&bg_color=00000000&text_color=888888&icon_color=00D4FF&title_color=00D4FF&include_all_commits=true&count_private=true&rank_icon=github" width="380">
+  <img src="https://img.shields.io/badge/enjoyer-000?style=flat-square&logoColor=00D4FF&color=000" alt="enjoyer">
 </p>
 
 <br>
